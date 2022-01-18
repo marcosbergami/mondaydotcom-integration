@@ -14,7 +14,7 @@
 
 ## :computer: monday.com Integration
 
-This application was built utilizing the **[quick start guide](https://apps.developer.monday.com/docs/quickstart-integration))** provided by monday.com.
+This application was built utilizing the **[quick start guide](https://apps.developer.monday.com/docs/quickstart-integration)** provided by monday.com.
 
 ---
 
